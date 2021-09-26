@@ -11,7 +11,7 @@ def index():
   "battleId": "21083c13-f0c2-4b54-8cb1-090129ffaa93"
 }
 """
-arenaEndpoint = ""
+arenaEndpoint ="https://cis2021-arena.herokuapp.com"
 events = []
 info = {
     'my_side':'',
